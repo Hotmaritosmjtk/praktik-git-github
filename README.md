@@ -13,3 +13,7 @@ tanggal dan waktu serta isi suatu direktori.
 ## Tujuan
 Mempelajari penggunaan Bash Script serta
 pengelolaan file menggunakan Git.
+
+## Pembaruan dari GitHub
+Ditambahkan untuk menguji proses Git Pull
+dari repository remote ke repository lokal.
